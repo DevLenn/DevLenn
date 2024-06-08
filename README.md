@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lenn</h1>
-<h3 align="center">A "i do what i like to do" guy with not enough time to do it all :,)</h3>
+<h3 align="center">An "i do what i like to do" guy with not enough time to do it all :,)</h3>
 
 - 🌱 I’m currently learning **AI Training-Data generation, Deeplearning, Python, JS, Rust, Video editing, 3d modelling and so much more...**
 
