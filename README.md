@@ -7,13 +7,7 @@
 
 - 💬 Ask me about **Everything you want**
 
-- 📫 How to reach me **ig: dev2care**
+- 📫 How to reach me **Mail: dev.lenn@proton.me**
 
 - ⚡ Fun fact **I don't know shit about what i am doing but it works**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dev2care" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev2care" height="30" width="40" /></a>
-</p>
-
 
